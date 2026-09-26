@@ -1,0 +1,7 @@
+# Instalador del SDK de Flutter (archivo pesado, se descarga desde flutter.dev)
+flutter_windows_*.zip
+
+# Documentos de Word (guías y entregables de los laboratorios)
+*.doc
+*.docx
+~$*
